@@ -25,7 +25,7 @@ Every top-level file and directory in this repository:
 | `.git/` | Git version control metadata |
 | `.gitattributes` | Git line-ending configuration (auto-detect text files, LF normalisation) |
 | `.gitignore` | Excludes OS files, editor configs, Python/Node artifacts, archives |
-| `CLAUDE.md` | Detailed project instructions for AI assistants and contributors |
+| `CLAUDE.md` | Detailed project instructions for AI assistants |
 | `README.md` | This file – repository overview and usage guide |
 | `method/` | Core system documentation: specs, phases, scoring/balance rules, master databases |
 | `architecture/` | Structural pattern rules: portals, ladders, mirrors, sequences, vibrational meanings |
@@ -173,7 +173,7 @@ External guides, angel number interpretation resources, and third-party referenc
 - **Pattern rules:** 5 documents in `architecture/` define structural patterns (portals, ladders, mirrors, sequences)
 - **Input data:** 37 dated message logs in `daily-logs/` (spanning multiple months in 2025)
 - **Reference materials:** 3 files in `references/` for interpreting angel numbers
-- **Project instructions:** `CLAUDE.md` provides detailed guidance for AI assistants and contributors
+- **Project instructions:** `CLAUDE.md` provides detailed guidance for AI assistants
 
 ### ⚠️ What's in Progress
 
@@ -251,15 +251,9 @@ The repository is **partially ready** for automation:
 
 ---
 
-## Contributing and Collaboration
+## Working with This Repository
 
-### For Contributors
-
-- **Preserve original language:** Many file names and document content are in Spanish. Do not translate unless explicitly requested.
-- **Respect emoji usage:** Emoji are semantic markers (e.g., 🌟 = important, 🦋 = registry, 🎯 = scoring, 🏛️ = architecture).
-- **Version conflicts:** When encountering conflicting rules, `bsr_code_ready_spec.md` takes precedence as the authoritative BSR 6.0 specification. Older documents provide historical context.
-- **Mark assumptions:** Any rule you derive (not quoted from a spec) must be labelled as an **implementation assumption** and flagged for review.
-- **Avoid invented rules:** If a workflow, naming convention, or algorithm detail is unclear, state "not specified in repository" rather than guessing.
+This is a personal project for tracking and processing angel number messages. The repository serves as both documentation and a foundation for future automation.
 
 ### For AI Assistants
 
@@ -270,12 +264,8 @@ Detailed instructions for AI assistants working with this repository are in `CLA
 - Cite file paths and line numbers when stating facts
 - Recognise multiple date formats (Spanish month names, various separator styles)
 - Pay attention to version markers (v2.0, BSR 6.0, FASE 1/2/3)
-
-### Version Control
-
-- **Branch:** Development occurs on feature branches starting with `claude/`
-- **Commits:** Use clear, descriptive commit messages
-- **Review:** All changes to specification documents should be reviewed before merging
+- Preserve original language (many file names and content are in Spanish)
+- Respect emoji usage as semantic markers (🌟 = important, 🦋 = registry, 🎯 = scoring, 🏛️ = architecture)
 
 ---
 
