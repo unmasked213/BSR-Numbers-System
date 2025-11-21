@@ -1,0 +1,4 @@
+architecture/
+Documents about patterns, portals, ladders, sequences, mirrors — the structural rules.
+
+This folder will stay small and focused.

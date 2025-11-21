@@ -1,0 +1,55 @@
+# | START: .gitignore
+# |  PATH: bsr-numbers-system/.gitignore
+
+
+
+# ── OS / DESKTOP ────────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+
+
+# ── EDITOR / IDE ────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+*.rej
+
+
+
+
+# ── SCRIPTS ─────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+
+
+# ── ARCHIVES ────────────────────────────────────────────────────────────────────
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+
+
+# |   END: .gitignore

@@ -1,0 +1,13 @@
+Anything that explains the system itself:
+
+old full system docs
+
+new BSR 6.0 drafts
+
+scoring rules
+
+balance rules
+
+automation spec
+
+(Everything “how the system works” lives here.)

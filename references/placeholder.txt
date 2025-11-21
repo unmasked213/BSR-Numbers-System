@@ -1,0 +1,11 @@
+External material that the system uses but doesn’t define:
+
+Sacred Scribes number mappings
+
+Vibrations 0–10
+
+Mixed numbers
+
+Word to number converters
+
+Anything that isn’t “method” or “daily logs”
